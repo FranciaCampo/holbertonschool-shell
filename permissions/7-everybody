@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod UGR 111 hello
+chmod 300 hello
